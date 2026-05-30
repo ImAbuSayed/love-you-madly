@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-you-madly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Love You Madly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-madly/) |
+| **Get License** | [Obtain a Music License for Love You Madly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-madly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2432)
 
 ---
 
