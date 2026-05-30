@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-you-madly/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Love You Madly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-madly/) |
+| **Get License** | [Official Music Licensing for Love You Madly](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-you-madly/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1a0dbe5349725d8b9c52c6e0015295dc22b1861a03afc424a0cb5476929b9b85` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
